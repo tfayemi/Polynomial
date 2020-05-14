@@ -2,7 +2,8 @@
 
 A solution to a simple Java exercise in which we create a class to construct and manipulate polynomials and their coefficients.
 Included are several testers for the polynomial class.
-# Methods
+
+## Methods
 
 *@Override public String toString()*
 
